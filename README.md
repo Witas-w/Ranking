@@ -224,7 +224,7 @@
         </tr>
     </tbody>
   </table>
-   <h2>Mój Ranking lodów</h2>
+   <h2>Mój ranking lodów</h2>
    <table>
     <thed>
        <tr>
@@ -262,7 +262,7 @@
     </tr>
     </tbody>
     </table>
-    <h2>Mój Ranking gofrów</h2>
+    <h2>Mój ranking gofrów</h2>
     <table>
         <thead>
             <tr>
