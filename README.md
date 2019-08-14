@@ -11,7 +11,7 @@
     background: #396f38;
     margin: 0;
     font-family: Arial;
-    text-align: center;
+    
         }
        .menu-1{
            background: white;
@@ -42,7 +42,7 @@
           right: 0px;
          left: 0px;
          font-size: 20px;
-         
+         text-align: center;
       }
       #akt{
           border-bottom:1px solid white;
