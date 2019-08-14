@@ -148,6 +148,9 @@
        #title {
        font-size: 40px;
        }
+       .king {
+       color: black;
+       }
         </style>
     </head>
     <body>
@@ -171,7 +174,7 @@
         
         <div id="lokiter">
         
-      <h2 id="title">Ran<strong>KING</strong>i</h2>
+      <h2 id="title">Ran<strong><span class="king">KING</span></strong>i</h2>
       
       <h2>Mój ranking restauracji</h2>
 
