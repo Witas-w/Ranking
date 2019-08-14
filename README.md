@@ -146,7 +146,7 @@
        color: black;
        }
        #title {
-       font-size: 60px;
+       font-size: 40px;
        }
         </style>
     </head>
@@ -171,9 +171,9 @@
         
         <div id="lokiter">
         
-      <h2>Ran<strong>KING</strong>i</h2>
+      <h2 id="title">Ran<strong>KING</strong>i</h2>
       
-      <h2 id="title">Mój ranking restauracji</h2>
+      <h2>Mój ranking restauracji</h2>
 
 <table>
    <thead>
