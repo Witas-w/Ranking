@@ -11,7 +11,7 @@
     background: #396f38;
     margin: 0;
     font-family: Arial;
-   
+    text-align: center;
         }
        .menu-1{
            background: white;
@@ -146,7 +146,7 @@
        color: black;
        }
        #title {
-       font-size: 30px;
+       font-size: 60px;
        }
         </style>
     </head>
