@@ -142,6 +142,12 @@
           background-color: red;
            color: white;
        }
+       table {
+       color: black;
+       }
+       #title {
+       font-size: 30px;
+       }
         </style>
     </head>
     <body>
@@ -167,7 +173,7 @@
         
       <h2>Ran<strong>KING</strong>i</h2>
       
-      <h2>Mój ranking restauracji</h2>
+      <h2 id="title">Mój ranking restauracji</h2>
 
 <table>
    <thead>
