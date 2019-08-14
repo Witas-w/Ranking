@@ -154,7 +154,7 @@
        #king-thing {
        left-margin: auto;
        right-margin: auto;
-       top: 50px;
+       top: 40px;
        position: relative;
        width: 40px;
        height: 40px;
@@ -182,7 +182,7 @@
 <img id="img" src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
         
         <div id="lokiter">
-        <img id="king-thing" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Crown_of_Italy.svg">
+        <img id="king-thing" src="https://images.app.goo.gl/yv8uKzPuTKmWx8Ak9">
       <h2 id="title">Ran<strong><span class="king">KING</span></strong>i</h2>
       
       <h2>Mój ranking restauracji</h2>
