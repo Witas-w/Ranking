@@ -149,7 +149,7 @@
        font-size: 40px;
        }
        .king {
-       color: black;
+       color: yellowe;
        }
         </style>
     </head>
