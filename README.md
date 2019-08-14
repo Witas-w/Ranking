@@ -154,7 +154,7 @@
        #king-thing {
        left-margin: auto;
        right-margin: auto;
-       top: 10px;
+       top: 50px;
        position: relative;
        width: 40px;
        height: 40px;
