@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-  
+    font-family: Arial;
    
         }
        .menu-1{
@@ -165,7 +165,7 @@
         
         <div id="lokiter">
         
-      <h3>Ran<strong>KING</strong>i</h3>
+      <h2>Ran<strong>KING</strong>i</h2>
       
       <h2>Mój ranking restauracji</h2>
 
