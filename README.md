@@ -250,20 +250,21 @@
     <td>Bacio</td>
     <td>100/100</td>
     </tr>
-     <tr>
-    <td>2</td>
-    <td>Góra Lodowa</td>
-    <td>97/100</td>
-    </tr>
+     
      <tr>
     <td>3</td>
     <td>U Lodziarzy</td>
-    <td>95/100</td>
+    <td>97/100</td>
     </tr>
      <tr>
     <td>4</td>
     <td>Wenta</td>
-    <td>90/100</td>
+    <td>94/100</td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>Góra Lodowa</td>
+    <td>93/100</td>
     </tr>
      <tr>
     <td>5</td>
