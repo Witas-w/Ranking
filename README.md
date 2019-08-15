@@ -252,17 +252,17 @@
     </tr>
      
      <tr>
-    <td>3</td>
+    <td>2</td>
     <td>U Lodziarzy</td>
     <td>97/100</td>
     </tr>
      <tr>
-    <td>4</td>
+    <td>3</td>
     <td>Wenta</td>
     <td>94/100</td>
     </tr>
     <tr>
-    <td>2</td>
+    <td>4</td>
     <td>Góra Lodowa</td>
     <td>93/100</td>
     </tr>
