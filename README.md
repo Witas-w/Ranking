@@ -182,7 +182,7 @@
 <img id="img" src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
         
         <div id="lokiter">
-        <img id="king-thing" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Crown_of_Italy.svg/1920px-Crown_of_Italy.svg.png">
+        <img id="king-thing" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Crown_of_Italy.svg/200px-Crown_of_Italy.svg.png">
       <h2 id="title">Ran<strong><span class="king">KING</span></strong>i</h2>
       
       <h2>Mój ranking restauracji</h2>
