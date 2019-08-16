@@ -19,6 +19,7 @@
             <a href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
             <a href="https://witas-w.github.io/Ranking/">Rankingi</a>
+            <a href="https://witas-w.github.io/OStatkach/">Statki</a>
      </div>  
         
      </div>   
