@@ -1,0 +1,156 @@
+ body{
+         color: white;
+    background: #396f38;
+    margin: 0;
+    font-family: Arial;
+
+        }
+       .menu-1{
+           background: white;
+           top: 0px;
+           width: 100%;
+           height: 70px;
+           position: absolute;
+           font-family: Arial;
+           float: left;
+          left: 0px;
+          z-index: 3;
+       }
+       #aut{
+
+         color: green;
+       }
+      #klik{
+         color: grey;
+      }
+
+
+
+      #lokiter{
+          z-index: 2;
+          background-color: #4e9447;
+          position: absolute;
+          top:300px;
+          right: 0px;
+         left: 0px;
+         font-size: 20px;
+         text-align: center;
+      }
+      #akt{
+          border-bottom:1px solid white;
+          text-align: center;
+      }
+
+      #img {
+       position: fixed;
+       z-index: 1;
+      height: 300px;
+      bottom: 0px;
+       top: 0px;
+       width: 100%;
+       right: 0px;
+       left: 0px;
+       }
+    .nav{
+
+           position: absolute;
+           text-align: right;
+           color: black;
+           height: 30px;
+           line-height: 30px;
+           right: 0px;
+           top: 10px;
+           z-index: 4;
+       }
+       .menu{
+         margin-right: 30px;
+       }
+       .menu a{
+           clear: right;
+           text-decoration: none;
+           color: black;
+           position: relative;
+           line-height: 40px;
+           margin-right: 30px;
+       }
+       label{
+           position: absolute;
+           font-size: 26px;
+           line-height: 40px;
+           display: none;
+           width: 26px;
+           right: 10px;
+
+       }
+       #toggle{
+           display: none;
+           top: 10px;
+           right: 10px;
+       }
+
+
+
+       @media only screen and (max-width: 500px){
+         label{
+
+
+
+           display: block;
+           cursor: pointer;
+}
+         .menu{
+           display: none;
+           text-align: center;
+           width: 500px;
+          position: relative;
+          top: 25px;
+          right: 0px;
+          left: 0px;
+           margin-right: 0px;
+}
+         .menu a{
+           display: block;
+           width: 500px;
+           text-decoration: none;
+           border-bottom: 1px solid black;
+           margin: 0;
+           color: black;
+           background-color: white;
+           top: 25px;
+           right: 0px;
+           left: 0px;
+            text-align: center;
+          }
+
+          #toggle:checked + .menu {
+          display: block;
+}
+       }
+       a:hover{
+          background-color: red;
+          color: white;
+       }
+       a:active{
+          background-color: red;
+           color: white;
+       }
+       table {
+       color: black;
+       margin-left: auto;
+       margin-right: auto;
+       }
+       #title {
+       font-size: 40px;
+       }
+       .king {
+       color: yellow;
+       }
+       #king-thing {
+       left-margin: auto;
+       right-margin: auto;
+       top: 40px;
+       position: relative;
+       width: 40px;
+       height: 40px;
+       background-color: transparent;
+       }
