@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <title>rankingi.pl</title>
-        <link rel="stylesheet" type="text/css" href="main.css"
+        <link rel="stylesheet" type="text/css" href="main.css">
     </head>
     <body>
     <div class="menu-1">
