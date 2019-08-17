@@ -99,7 +99,7 @@
      <tr>
     <td>2</td>
     <td>U Lodziarzy</td>
-    <td>97/100</td>
+    <td>99/100</td>
     </tr>
      <tr>
     <td>3</td>
