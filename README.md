@@ -9,7 +9,7 @@
     <body>
     <div class="menu-1">
     
-        <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+  <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
@@ -22,16 +22,16 @@
             <a href="https://witas-w.github.io/OStatkach/">Statki</a>
      </div>  
         
-     </div>   
+   </div>   
         
          
-<img id="img" src="https://s6.ifotos.pl/img/IMG6219JP_qswwpha.jpg">
+<img id="img" src="tlo.jpg">
         
-        <div id="lokiter">
-        <img id="king-thing" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Crown_of_Italy.svg/200px-Crown_of_Italy.svg.png">
+ <div id="lokiter">
+ <img id="king-thing" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Crown_of_Italy.svg/200px-Crown_of_Italy.svg.png">
       <h2 id="title">Ran<strong><span class="king">KING</span></strong>i</h2>
       
-      <h2>Mój ranking restauracji</h2>
+  <h2>Mój ranking restauracji</h2>
 
 <table>
    <thead>
