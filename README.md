@@ -88,15 +88,15 @@
            <th>Punkt</th>
         </tr>
        
-    </thed>
-    <tbody>
+</thed>
+<tbody>
     <tr>
     <td>1</td>
     <td>Bacio</td>
     <td>100/100</td>
     </tr>
      
-     <tr>
+   <tr>
     <td>2</td>
     <td>U Lodziarzy</td>
     <td>99/100</td>
@@ -154,5 +154,5 @@
        
    
  
-    </body>
+</body>
 </html>
