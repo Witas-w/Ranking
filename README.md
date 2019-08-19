@@ -9,7 +9,7 @@
     <body>
     <div class="menu-1">
     
-  <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+ <img class="logo" src="logo.png">
          </div>
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
