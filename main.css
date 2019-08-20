@@ -16,13 +16,13 @@
           left: 0px;
           z-index: 3;
        }
-.logo{
+         .logo{
     float: left;
 
     position: absolute;
-    left: -35px;
-    top: -15px;
-    background: transparent;
+    left: -25px;
+    top: -10px;
+    background-color: transparent;
     height: 80px;
 }
        #aut{
